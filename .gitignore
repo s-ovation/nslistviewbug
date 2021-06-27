@@ -6,8 +6,6 @@ debugger
 dist
 report
 
-webpack.config.js
-
 app/**/*.map
 app/**/*.js
 
